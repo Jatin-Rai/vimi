@@ -54,7 +54,7 @@ In the project directory, you can run:
 - [Stream](https://getstream.io/) - Platform that allows users to build real-time chats and feeds, including activity feeds, social networks, and chat apps.
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs
-- [Radix UI](https://www.radix-ui.com/) - Unstyled, accessible components for building high-quality design systems and web apps
+- [Shadcn UI](https://ui.shadcn.com/) - Unstyled, accessible components for building high-quality design systems and web apps
 - [Date-Fns](https://date-fns.org/) - Modern JavaScript date utility library
 - [UUID](https://www.npmjs.com/package/uuid) - For the creation of RFC4122 UUIDs
 
