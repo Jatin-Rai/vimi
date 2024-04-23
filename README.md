@@ -59,4 +59,4 @@ In the project directory, you can run:
 - [UUID](https://www.npmjs.com/package/uuid) - For the creation of RFC4122 UUIDs
 
 ## Hosted On
-- vercel
+- [vercel](https://vercel.com)
